@@ -4,4 +4,4 @@
 
 # Beamfall
 
-Your media, your server.
+Beamfall is a self-hosted media server.
